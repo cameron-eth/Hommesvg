@@ -1,2 +1,2 @@
-# Homme-svg
+# Animated Landing Page
 Homme svg animation 
