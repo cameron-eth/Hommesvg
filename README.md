@@ -1,2 +1,2 @@
 # Animated Landing Page
-Homme svg animation 
+Designed by @Hommefleur, Feel free to use code @ your discretion. 
